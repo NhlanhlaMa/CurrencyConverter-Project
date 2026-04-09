@@ -26,6 +26,8 @@ namespace CurrencyConverter_Static
         {
             InitializeComponent();
             BindCurrency();
+
+            // Sql Call
         }
 
         private void BindCurrency()
